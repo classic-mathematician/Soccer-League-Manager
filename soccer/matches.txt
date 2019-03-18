@@ -1,0 +1,6 @@
+tigres,rayados,None,
+tigres,toluca,None,
+tigres,barca,None,
+rayados,toluca,None,
+rayados,barca,None,
+toluca,barca,None,

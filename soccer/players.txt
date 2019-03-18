@@ -1,0 +1,4 @@
+tigres;gignac,10,0;
+rayados;chupete,8,0;
+toluca;siña,5,0;
+barca;messi,9,0;
